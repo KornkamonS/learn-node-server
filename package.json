@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "buefy": "^0.7.1",
+    "http-proxy-middleware": "^0.19.1",
     "moment": "^2.23.0",
     "pdfjs-dist": "^2.0.943",
     "raw-loader": "^1.0.0",
